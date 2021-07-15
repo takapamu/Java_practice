@@ -1,1 +1,1 @@
-<h2>Hign & Low Game</h2>
+<h2>High & Low Game</h2>
